@@ -16,7 +16,7 @@
 
   RF Domain tranform recursive edge-preserving fitler
 
-  F = RF(img, sigma_s, sigma_r, num_iterations, joint_image)
+    F = RF(img, sigma_s, sigma_r, num_iterations, joint_image)
 
   Parameters:
     img:             input image to be filtered
