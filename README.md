@@ -30,7 +30,7 @@
     joint_image      Optional image for joint filtering.
   
  
- # Result
+ # Results
 <table style="width:100%">
 <tr>
 <td><img src="woman.png"  width="320" ></td> <td><img src="RF_woman.png"  width="320" ></td>
