@@ -1,4 +1,4 @@
-# edge-preserving-filter
+# Edge-preserving-filter
  This script is the torch implementation of the domain transform Recursive Filter 
   described in the paper:
   
