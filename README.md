@@ -28,3 +28,16 @@
     num_iterations   Number of iterations to perform (defualt: 3)
     
     joint_image      Optional image for joint filtering.
+  
+ 
+ # Result
+<table style="width:100%">
+<tr>
+<td><img src="woman.png"  width="320" ></td> <td><img src="RF_result.png"  width="320" ></td>
+</tr>
+<tr>
+<td>input ref</td>
+<td>RF result</td>
+ </table>
+</tr>
+
