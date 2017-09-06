@@ -33,11 +33,12 @@
  # Result
 <table style="width:100%">
 <tr>
-<td><img src="woman.png"  width="320" ></td> <td><img src="RF_result.png"  width="320" ></td>
-</tr>
+<td><img src="woman.png"  width="320" ></td> <td><img src="RF_woman.png"  width="320" ></td>
+<td><img src="in5.jpg"  width="320" ></td> <td><img src="RF_in5.png"  width="320" ></td>
+<td><img src="sketch.jpg"  width="320" ></td> <td><img src="RF_sketch.png"  width="320" ></td>
+</tr>j
 <tr>
-<td>input ref</td>
-<td>RF result</td>
+<td>input ref1</td><td>RF result</td><td>input ref2</td><td>RF result2</td><td>input ref3</td><td>RF result3</td>
  </table>
 </tr>
 
