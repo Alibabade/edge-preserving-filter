@@ -20,7 +20,11 @@
 
   Parameters:
     img:             input image to be filtered
+    
     sigma_s:         Filter spatial standard deviation
+    
     sigma_r:         Filter range standard deviation
+    
     num_iterations   Number of iterations to perform (defualt: 3)
+    
     joint_image      Optional image for joint filtering.
