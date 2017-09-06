@@ -24,11 +24,6 @@
     num_iterations   Number of iterations to perform (defualt: 3)
     joint_image      Optional image for joint filtering.
 
-
-
-  Editor: Li Wang
-  Date : 23 Aug 2017
-  Email: liwang1991@outlook.com
 --]]
 
 
